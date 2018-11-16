@@ -39,7 +39,7 @@ public class Main {
             System.out.println("Total Contacts Parsed " + contacts.size());
 
 
-            String mailSubject = "თიბისი ლიზინგის 15 წლის იუბილე - მოსაწვევი";
+            String mailSubject = "test";
 
             System.out.println("Insert Mail User Login");
             String mailUser = scanner.next();
