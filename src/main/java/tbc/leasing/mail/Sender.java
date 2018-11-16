@@ -23,7 +23,7 @@ public class Sender {
     private   Properties props;
     private   Session session;
 
-    private   String FROM = "our email";
+    private   String FROM = "your email";
 
 
     public Sender(String aUserLogin,String aPassword) {
